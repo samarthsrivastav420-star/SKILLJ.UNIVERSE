@@ -1,0 +1,6 @@
+{
+  "name": "SkillJ Universe - Online Education Ecosystem",
+  "description": "India's trusted online education platform connecting students with verified master faculty across Skill, Course, and Education pathways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
